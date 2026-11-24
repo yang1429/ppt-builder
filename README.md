@@ -9,7 +9,9 @@
 - 检查已有 PPTX 的空页、超长文本、缺标题、文本过密问题
 - 只输出大纲，不生成文件
 
-## 安装`t-builder` 目录放到以下任一位置：
+## 安装
+
+把整个`ppt-builder` 目录放到以下任一位置：
 
 - 个人可用：`~/.workbuddy/skills/ppt-builder/`
 - 团队共享：项目根目录下的 `.workbuddy/skills/ppt-builder/`
